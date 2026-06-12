@@ -1,0 +1,57 @@
+The frequency variable must have inverse units to the units of the original function's 
+domain (typically named t {\displaystyle t} or ⁠ x {\displaystyle x}⁠). For example, if t 
+{\displaystyle t} is measured in seconds, ξ {\displaystyle \xi } should be in cycles per 
+second or hertz. If the scale of time is in units of 2 π {\displaystyle 2\pi } seconds, then 
+another Greek letter ω {\displaystyle \omega } is typically used instead to represent 
+angular frequency (where ⁠ ω = 2 π ξ {\displaystyle \omega =2\pi \xi }⁠) in units of radians 
+per second. If using x {\displaystyle x} for units of length, then ξ {\displaystyle \xi } 
+must be in inverse length, e.g., wavenumbers. That is to say, there are two versions of the 
+real line: one that is the range of t {\displaystyle t} and measured in units of ⁠ t 
+{\displaystyle t}⁠, and the other that is the range of ξ {\displaystyle \xi } and measured in 
+inverse units to the units of ⁠ t {\displaystyle t}⁠. These two distinct versions of the real 
+line cannot be equated with each other. Therefore, the Fourier transform goes from one space 
+of functions to a different space of functions: functions that have a different domain of 
+definition.
+
+In general, ξ {\displaystyle \xi } must always be taken to be a linear form on the space of 
+its domain, which is to say that the second real line is the dual space of the first real 
+line. (See the article Linear algebra for a more formal explanation and for more details.) 
+This point of view becomes essential in generalizations of the Fourier transform to general 
+symmetry groups, including the case of Fourier series.
+
+That there is no one preferred way (often, one says "no canonical way") to compare the two 
+versions of the real line that are involved in the Fourier transform—fixing the units on one 
+line does not force the scale of the units on the other line—is the reason for the plethora 
+of rival conventions on the definition of the Fourier transform. The various definitions 
+resulting from different choices of units differ by various constants.
+
+In other conventions, the Fourier transform has i in the exponent instead of −i, and vice 
+versa for the inversion formula. This convention is common in modern physics[14] and is the 
+default for Wolfram Alpha, and does not mean that the frequency has become negative, since 
+there is no canonical definition of positivity for frequency of a complex wave. It simply 
+means that f ^ ( ξ ) {\displaystyle {\widehat {f}}(\xi )} is the amplitude of the wave ⁠ e − 
+i 2 π ξ x {\displaystyle e^{-i2\pi \xi x}}⁠ instead of the wave e i 2 π ξ x {\displaystyle 
+e^{i2\pi \xi x}} (the former, with its minus sign, is often seen in the time dependence for 
+sinusoidal plane-wave solutions of the electromagnetic wave equation, or in the time 
+dependence for quantum wave functions). Many of the identities involving the Fourier 
+transform remain valid in those conventions, provided all terms that explicitly involve i 
+have it replaced by −i. In electrical engineering the letter j is typically used for the 
+imaginary unit instead of i because i is used for current.
+
+When using dimensionless units, the constant factors might not be written in the transform 
+definition. For instance, in probability theory, the characteristic function Φ of the 
+probability density function ⁠ f {\displaystyle f}⁠ of a random variable ⁠ X {\displaystyle X}⁠ 
+of continuous type is defined without a negative sign in the exponential, and since the 
+units of ⁠ π {\displaystyle 2\pi }⁠ either: φ ( λ = − ∞ f e i x .
+
+From the higher point of view of group characters, which is much more abstract, all these 
+arbitrary choices disappear, as will be explained in the later section of this article, 
+which treats the notion of the Fourier transform of a function on a locally compact abelian 
+group.{\displaystyle \varphi (\lambda )=\int _{-\infty }^{\infty }f(x)e^{i\lambda x}\,dx.} 
+In probability theory and mathematical statistics, the use of the Fourier—Stieltjes 
+transform is preferred, because many random variables are not of continuous type, and do not 
+possess a density function, and one must treat not functions but distributions, i.e., 
+measures that possess "atoms".
+
+d x λ ( x ) ∞ ∫ ) 2
+
