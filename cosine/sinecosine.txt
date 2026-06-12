@@ -4,3 +4,7 @@ position and spatial frequency).
 
 
 The sine transform is necessarily an odd function of frequency, i.e. for all 
+
+The cosine transform is necessarily an even function of frequency, i.e. for all 
+ξ
+{\displaystyle \xi }
