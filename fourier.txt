@@ -21,3 +21,8 @@ integral transform, although this definition is not suitable for many applicatio
 a more sophisticated integration theory.[note 2] For example, many relatively simple 
 applications use the Dirac delta function, which can be treated formally as if it were a 
 function, but the justification requires a mathematically more sophisticated viewpoint.
+
+Eigenfunctions
+
+The fourier transform is a linear transform that has eigenfunctions obeyeing the Function that
+is lambda times the psi with lambda value is subset of C.
