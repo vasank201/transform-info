@@ -53,5 +53,13 @@ transform is preferred, because many random variables are not of continuous type
 possess a density function, and one must treat not functions but distributions, i.e., 
 measures that possess "atoms".
 
-d x λ ( x ) ∞ ∫ ) 2
+
+The Fourier transform translates between convolution and multiplication of functions. If ⁠ f 
+( x ) {\displaystyle f(x)}⁠ and ⁠ g ( x ) {\displaystyle g(x)}⁠ are integrable functions with 
+Fourier transforms ⁠ f ^ {\displaystyle {\widehat {f}}}⁠ and ⁠ g ^ ( ξ ) {\displaystyle 
+{\widehat {g}}(\xi )}⁠ respectively, then the Fourier transform of the convolution is given 
+by the product of the Fourier transforms ⁠ f ^ {\displaystyle {\widehat {f}}}⁠ and ⁠ g ^ 
+{\displaystyle {\widehat {g}}}⁠ (under other conventions for the definition of the Fourier 
+transform a constant factor may appear).
+
 
