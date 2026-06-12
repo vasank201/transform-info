@@ -1,0 +1,9 @@
+In mathematics, the Fourier sine and cosine transforms are integral equations that decompose 
+arbitrary functions into a sum of sine waves representing the odd component of the function 
+plus cosine waves representing the even component of the function. The modern, 
+complex-valued Fourier transform concisely contains both the sine and cosine transforms. 
+Since the sine and cosine transforms use sine and cosine waves instead of complex 
+exponentials and don't require complex numbers or negative frequency, they more closely 
+correspond to Joseph Fourier's original transform equations and are still preferred in some 
+signal processing and statistical applications and may be better suited as an introduction 
+to Fourier analysis.

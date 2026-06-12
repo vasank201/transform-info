@@ -1,0 +1,6 @@
+If t {\displaystyle t} means time, then ξ {\displaystyle \xi } is frequency in cycles per 
+unit time,[note 2] but in the abstract, they can be any dual pair of variables (e.g. 
+position and spatial frequency).
+
+
+The sine transform is necessarily an odd function of frequency, i.e. for all 
